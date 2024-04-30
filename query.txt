@@ -1,0 +1,7 @@
+CREATE DATABASE employee_management;
+
+CREATE TABLE EMPLOYEE(
+Ecode INT PRIMART KEY,
+Emp_Name VARCHAR(35),
+Department VARCHAR(25)
+JOB 
